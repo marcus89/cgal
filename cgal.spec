@@ -12,7 +12,7 @@
 
 
 Name:           CGAL
-Version:        5.4.2
+Version:        0
 Release:        1%{?dist}
 Summary:        Computational Geometry Algorithms Library
 
